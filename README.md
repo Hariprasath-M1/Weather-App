@@ -1,4 +1,4 @@
-Weather App in PHP
+Weather App in PHP:
 
 This is a basic weather application built with PHP that fetches and displays weather information for a given city. 
 
