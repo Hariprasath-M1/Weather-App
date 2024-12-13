@@ -1,10 +1,10 @@
-Weather App in PHP:
+#Weather App in PHP:
 
 This is a basic weather application built with PHP that fetches and displays weather information for a given city. 
 
 The app uses PHP's fsockopen function to make HTTP requests and dynamically updates the user interface based on the fetched weather data.
 
-Prerequisites:
+#Prerequisites:
 
 1. PHP 8.0 or higher
 
@@ -12,7 +12,7 @@ Prerequisites:
 
 3. A web browser
 
-File Overview
+#File Overview:
 
 RemoteWeatherFetcher.php
 
